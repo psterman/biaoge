@@ -525,7 +525,7 @@
    'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py',
    'PYMODULE'),
   ('icon_downloader',
-   'C:\\Users\\Administrator\\Desktop\\icon\\icon_downloader.py',
+   'C:\\Users\\Administrator\\Desktop\\icon\\src\\icon_downloader.py',
    'PYMODULE'),
   ('idna',
    'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\idna\\__init__.py',

@@ -3,10 +3,13 @@
 block_cipher = None
 
 a = Analysis(
-    ['icon_downloader_gui.py'],
+    ['src/icon_downloader_gui.py'],
     pathex=[],
     binaries=[],
-    datas=[('domain_mappings.json', '.')],
+    datas=[
+        ('domain_mappings.json', '.'),
+        ('src/*.py', 'src/'),
+    ],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
